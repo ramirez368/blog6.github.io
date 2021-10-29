@@ -13,6 +13,7 @@ Next remarkable technology trend is quantum computing, which is a form of comput
 SQuantum computers are now a multitude times faster than regular computers and huge brands like Splunk, Honeywell, Microsoft, AWS, Google and many others are now involved in making innovations in the field of Quantum Computing. The revenues for the global quantum computing market are projected to surpass $2.5 billion by 2029. And to make a mark in this new trending technology, you need to have experience with quantum mechanics, linear algebra, probability, information theory, and machine learning.
 
 ## Why Two Tech Giants Are Arguing About Quantum Computers:
+## Is it Google or IBM?
 ![Why Two Tech Giants Are Arguing About Quantum Computers](https://media.wired.com/photos/5e333e15be05400008f39506/1:1/w_1500,c_limit/Business-QuantumComputing-Google-L1001386.jpg)
 
 
@@ -25,7 +26,6 @@ Yet in an 11th-hour objection, Google’s chief quantum-computing rival asserted
 
 Why all the confusion? Aren’t major milestones supposed to be big, unambiguous achievements? The episode reminds us that not all scientific revolutions arrive as a thunderclap—and that quantum supremacy in particular involves more nuance than fits in a headline.
 
-Read: How quantum mechanics could be even weirder
 
 Quantum computers have been under development for decades. While ordinary, or classical, computers perform calculations using sequences of bits composed of 1s and 0s, quantum computers encode information using quantum bits, or qubits, that behave according to the strange rules of quantum mechanics. Quantum computers aim to harness those features to rapidly perform calculations far beyond the capacity of any ordinary computer. But for years, quantum computers struggled to match the computing power of a handheld calculator.
 
