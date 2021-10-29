@@ -25,17 +25,11 @@ Yet in an 11th-hour objection, Google’s chief quantum-computing rival asserted
 Why all the confusion? Aren’t major milestones supposed to be big, unambiguous achievements? The episode reminds us that not all scientific revolutions arrive as a thunderclap—and that quantum supremacy in particular involves more nuance than fits in a headline.
 
 
+![Diagram of the Quantum ](https://www.microsoft.com/en-us/research/uploads/prod/2021/01/1400x788_Quantum_Still_NoLogo-1-655x368.jpg)
+
 Quantum computers have been under development for decades. While ordinary, or classical, computers perform calculations using sequences of bits composed of 1s and 0s, quantum computers encode information using quantum bits, or qubits, that behave according to the strange rules of quantum mechanics. Quantum computers aim to harness those features to rapidly perform calculations far beyond the capacity of any ordinary computer. But for years, quantum computers struggled to match the computing power of a handheld calculator.
 
 In 2012, John Preskill, a theoretical physicist at the California Institute of Technology, coined the phrase quantum supremacy to describe the moment when a quantum computer finally surpasses even the best supercomputer. The term caught on, but experts came to hold different ideas about what it means
-
-
-### 
-
-
-![Diagram of the Quantum ](https://www.microsoft.com/en-us/research/uploads/prod/2021/01/1400x788_Quantum_Still_NoLogo-1-655x368.jpg)
-
-### 
 
 ### I hope this was useful to how to setup Apache Server and being expose to more Linux
 
