@@ -3,27 +3,19 @@ layout: default
 ---
 
 
-[Ldap and Active Directory how they interact](https://www.youtube.com/watch?v=QyhNaY5O468&t=1s).
+[Quantum Computer](https://www.youtube.com/watch?v=JhHMJCUmq28&t=33s).
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# What is LDAP?
-LDAP (Lightweight Directory Access Protocol) is an open and cross platform protocol used for directory services authentication.
-
-LDAP provides the communication language that applications use to communicate with other directory services servers. Directory services store the users, passwords, and computer accounts, and share that information with other entities on the network.
+# Quantum Computing
+Next remarkable technology trend is quantum computing, which is a form of computing that takes advantage of quantum phenomena like superposition and quantum entanglement. This amazing technology trend is also involved in preventing the spread of the coronavirus, and to develop potential vaccines, thanks to its ability to easily query, monitor, analyze and act on data, regardless of the source. Another field where quantum computing is finding applications in banking and finance, to manage credit risk, for high-frequency trading and fraud detection.
 
 
 
 ## LDAP Authentication:
-![Ldap Authentication](https://api.softwarekeep.com/media/nimbus/helpcenter/LDAP_Authentification.png)
+![Ldap Authentication](https://media.wired.com/photos/5e333e15be05400008f39506/1:1/w_1500,c_limit/Business-QuantumComputing-Google-L1001386.jpg)
 
-* _Anonymous authentication_: Grants client anonymous status to LDAP.
-* _Unauthenticated authentication_: For logging purposes only, should not grant access to a client.
-* _Name/Password authentication_: Grants access to the server based on the credentials supplied – simple user/pass authentication is not secure and is not suitable for authentication without confidentiality protection.
-
-SASL authentication binds the LDAP server to another authentication mechanism, like Kerberos. The LDAP server uses the LDAP protocol to send an LDAP message to the other authorization service. That initiates a series of challenge response messages that result in either a successful authentication or a failure to authenticate.
-
-It’s important to note that LDAP passes all of those messages in clear text by default, so anyone with a network sniffer can read the packets. You need to add TLS encryption or similar to keep your usernames and passwords safe.
+SQuantum computers are now a multitude times faster than regular computers and huge brands like Splunk, Honeywell, Microsoft, AWS, Google and many others are now involved in making innovations in the field of Quantum Computing. The revenues for the global quantum computing market are projected to surpass $2.5 billion by 2029. And to make a mark in this new trending technology, you need to have experience with quantum mechanics, linear algebra, probability, information theory, and machine learning.
 
 ### What is Active Directory?
 Active Directory is a directory services implementation that provides all sorts of functionality like authentication, group and user management, policy administration and more.
