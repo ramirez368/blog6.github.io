@@ -12,49 +12,32 @@ Next remarkable technology trend is quantum computing, which is a form of comput
 
 SQuantum computers are now a multitude times faster than regular computers and huge brands like Splunk, Honeywell, Microsoft, AWS, Google and many others are now involved in making innovations in the field of Quantum Computing. The revenues for the global quantum computing market are projected to surpass $2.5 billion by 2029. And to make a mark in this new trending technology, you need to have experience with quantum mechanics, linear algebra, probability, information theory, and machine learning.
 
-## LDAP Authentication:
+## Why Two Tech Giants Are Arguing About Quantum Computers:
 ![Why Two Tech Giants Are Arguing About Quantum Computers](https://media.wired.com/photos/5e333e15be05400008f39506/1:1/w_1500,c_limit/Business-QuantumComputing-Google-L1001386.jpg)
 
 
-### What is Active Directory?
-Active Directory is a directory services implementation that provides all sorts of functionality like authentication, group and user management, policy administration and more.
+### 
 
-Active Directory (AD) supports both Kerberos and LDAP – Microsoft AD is by far the most common directory services system in use today. AD provides Single-SignOn (SSO) and works well in the office and over VPN. AD and Kerberos are not cross platform, which is one of the reasons companies are implementing access management software to manage logins from many different devices and platforms in a single place. AD does support LDAP, which means it can still be part of your overall access management scheme.
-
-Active Directory is just one example of a directory service that supports LDAP. There are other flavors, too: Red Hat Directory Service, OpenLDAP, Apache Directory Server, and more.
+The tech giant announced that it had reached a long-anticipated milestone known as “quantum supremacy”—a watershed moment in which a quantum computer executes a calculation that no ordinary computer can match. In a new paper in Nature, Google described just such a feat performed on its state-of-the-art quantum machine, code-named “Sycamore.” Although quantum computers are not yet at a point where they can do useful things, this result demonstrates that they have an inherent advantage over ordinary computers for some tasks.
 
 
+Yet in an 11th-hour objection, Google’s chief quantum-computing rival asserted that the quantum-supremacy threshold has not yet been crossed. In a paper posted online Monday, IBM provided evidence that the world’s most powerful supercomputer can nearly keep pace with Google’s new quantum machine. As a result, IBM argued that Google’s claim should be received “with a large dose of skepticism.”
 
-### LDAP vs. Active Directory
-LDAP is a way of speaking to Active Directory.
+Why all the confusion? Aren’t major milestones supposed to be big, unambiguous achievements? The episode reminds us that not all scientific revolutions arrive as a thunderclap—and that quantum supremacy in particular involves more nuance than fits in a headline.
 
-LDAP is a protocol that many different directory services and access management solutions can understand.
+Read: How quantum mechanics could be even weirder
 
-The relationship between AD and LDAP is much like the relationship between Apache and HTTP:
+Quantum computers have been under development for decades. While ordinary, or classical, computers perform calculations using sequences of bits composed of 1s and 0s, quantum computers encode information using quantum bits, or qubits, that behave according to the strange rules of quantum mechanics. Quantum computers aim to harness those features to rapidly perform calculations far beyond the capacity of any ordinary computer. But for years, quantum computers struggled to match the computing power of a handheld calculator.
 
-* HTTP is a web protocol.
-* Apache is a web server that uses the HTTP protocol.
-* LDAP is a directory services protocol.
-* Active Directory is a directory server that uses the LDAP protocol.
-Occasionally you’ll hear someone say, “We don’t have Active Directory, but we have LDAP.” What they probably mean is that they have another product, such as OpenLDAP, which is an LDAP server.
-It’s kind of like someone saying “We have HTTP” when they really meant “We have an Apache web server.”
+In 2012, John Preskill, a theoretical physicist at the California Institute of Technology, coined the phrase quantum supremacy to describe the moment when a quantum computer finally surpasses even the best supercomputer. The term caught on, but experts came to hold different ideas about what it means
 
+
+### 
 
 
 ![Table with Differences between LDAP and Active Directory ](https://ipwithease.com/wp-content/uploads/2020/06/LDAP-VS-AD-TABLE.jpg)
 
-### What is an LDAP Query?
-An LDAP query is a command that asks a directory service for some information. For instance, if you’d like to see which groups a particular user is a part of, you’d submit a query that looks like this:
-
-(&(objectClass=user)(sAMAccountName=yourUserName)
-(memberof=CN=YourGroup,OU=Users,DC=YourDomain,DC=com))
-
-Beautiful syntax, huh? Not quite as simple as typing a web address into your browser. Feels like LISP.
-
-Luckily, in most cases, you won’t need to write LDAP queries. To maintain your sanity, you’ll perform all your directory services tasks through a point-and-click management interface like Varonis DatAdvantage or perhaps using a command line shell like PowerShell that abstracts away the details of the raw LDAP protocol.
-
-TL;DR: LDAP is a protocol, and Active Directory is a server. LDAP authenticates Active Directory – it’s a set of guidelines to send and receive information (like usernames and passwords) to Active Directory. Want to learn more? Get a 1:1 AD demo and learn how Varonis helps protect your Active Directory environment.
-
+### 
 
 ### I hope this was useful to how to setup Apache Server and being expose to more Linux
 
