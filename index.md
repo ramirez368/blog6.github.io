@@ -13,11 +13,9 @@ Next remarkable technology trend is quantum computing, which is a form of comput
 SQuantum computers are now a multitude times faster than regular computers and huge brands like Splunk, Honeywell, Microsoft, AWS, Google and many others are now involved in making innovations in the field of Quantum Computing. The revenues for the global quantum computing market are projected to surpass $2.5 billion by 2029. And to make a mark in this new trending technology, you need to have experience with quantum mechanics, linear algebra, probability, information theory, and machine learning.
 
 ## Why Two Tech Giants Are Arguing About Quantum Computers:
-## Is it Google or IBM?
+## Is it a Google or IBM credit?
 ![Why Two Tech Giants Are Arguing About Quantum Computers](https://media.wired.com/photos/5e333e15be05400008f39506/1:1/w_1500,c_limit/Business-QuantumComputing-Google-L1001386.jpg)
 
-
-### 
 
 The tech giant announced that it had reached a long-anticipated milestone known as “quantum supremacy”—a watershed moment in which a quantum computer executes a calculation that no ordinary computer can match. In a new paper in Nature, Google described just such a feat performed on its state-of-the-art quantum machine, code-named “Sycamore.” Although quantum computers are not yet at a point where they can do useful things, this result demonstrates that they have an inherent advantage over ordinary computers for some tasks.
 
@@ -35,7 +33,7 @@ In 2012, John Preskill, a theoretical physicist at the California Institute of T
 ### 
 
 
-![Table with Differences between LDAP and Active Directory ](https://ipwithease.com/wp-content/uploads/2020/06/LDAP-VS-AD-TABLE.jpg)
+![Diagram of the Quantum ](https://www.microsoft.com/en-us/research/uploads/prod/2021/01/1400x788_Quantum_Still_NoLogo-1-655x368.jpg)
 
 ### 
 
