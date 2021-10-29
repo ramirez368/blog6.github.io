@@ -10,12 +10,11 @@ layout: default
 # Quantum Computing
 Next remarkable technology trend is quantum computing, which is a form of computing that takes advantage of quantum phenomena like superposition and quantum entanglement. This amazing technology trend is also involved in preventing the spread of the coronavirus, and to develop potential vaccines, thanks to its ability to easily query, monitor, analyze and act on data, regardless of the source. Another field where quantum computing is finding applications in banking and finance, to manage credit risk, for high-frequency trading and fraud detection.
 
-
+SQuantum computers are now a multitude times faster than regular computers and huge brands like Splunk, Honeywell, Microsoft, AWS, Google and many others are now involved in making innovations in the field of Quantum Computing. The revenues for the global quantum computing market are projected to surpass $2.5 billion by 2029. And to make a mark in this new trending technology, you need to have experience with quantum mechanics, linear algebra, probability, information theory, and machine learning.
 
 ## LDAP Authentication:
-![Ldap Authentication](https://media.wired.com/photos/5e333e15be05400008f39506/1:1/w_1500,c_limit/Business-QuantumComputing-Google-L1001386.jpg)
+![Why Two Tech Giants Are Arguing About Quantum Computers](https://media.wired.com/photos/5e333e15be05400008f39506/1:1/w_1500,c_limit/Business-QuantumComputing-Google-L1001386.jpg)
 
-SQuantum computers are now a multitude times faster than regular computers and huge brands like Splunk, Honeywell, Microsoft, AWS, Google and many others are now involved in making innovations in the field of Quantum Computing. The revenues for the global quantum computing market are projected to surpass $2.5 billion by 2029. And to make a mark in this new trending technology, you need to have experience with quantum mechanics, linear algebra, probability, information theory, and machine learning.
 
 ### What is Active Directory?
 Active Directory is a directory services implementation that provides all sorts of functionality like authentication, group and user management, policy administration and more.
